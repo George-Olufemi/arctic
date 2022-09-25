@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import HomeNav from '../navBar/HomeNav'
-import Book_Trip from '../components/Book_Trip'
+import BookTrip from '../components/BookTrip'
 import Payment from '../components/Payment'
 
 const Home = () => {
@@ -14,7 +14,7 @@ const Home = () => {
         <p className='font-[400px] not-italic text-[22px] leading-[155%]'>Easily plan your ideal ski trip from home with the <br /> help of professionals</p>
       </div>
     </div>
-    <Book_Trip/>
+    <BookTrip/>
     <Payment/>
   </div>
   )

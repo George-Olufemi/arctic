@@ -1,7 +1,7 @@
 import React from 'react'
-import "./Book_Trip.css"
+import "./BookTrip.css"
 
-const Book_Trip = () => {
+const BookTrip = () => {
   return (
         <div className='md:px-[120px] '>
             <div className='tripp w-[1200px] h-[140px] bg-slate-100 rounded-[16px] mt-[300px] '>
@@ -100,4 +100,4 @@ const Book_Trip = () => {
   )
 }
 
-export default Book_Trip
+export default BookTrip
