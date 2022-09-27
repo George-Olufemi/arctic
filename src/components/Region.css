@@ -1,0 +1,12 @@
+.woman {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.651) 0%, rgba(0, 0, 0, 0.580838) 32.24%, rgba(0, 0, 0, 0.486293) 62.09%, rgba(0, 0, 0, 0) 98.06%) url("https://img.freepik.com/free-photo/tourist-with-baggage-map-fuji-mountain-kawaguchiko-japan_335224-170.jpg?w=1480&t=st=1664281746~exp=1664282346~hmac=4488888feca47b3c95e32a25069a621554b3dca420ba08485a1e2392001a8449"),
+
+}
+
+.snow {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+}
+
+.ski {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+}
