@@ -1,6 +1,5 @@
 import React from 'react'
 import Zoom from 'react-reveal/Zoom';
-import "./Region.css"
 
 const Region = () => {
   return (
