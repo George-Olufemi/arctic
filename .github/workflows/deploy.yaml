@@ -1,0 +1,17 @@
+name: Deploy website
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-node@master
+        with:
+        node-verson: 12
+      - run: npm ci
+      - run: npm run build
+      
