@@ -7,7 +7,7 @@ const FooterHero = () => {
         <Fade big>
             <React.Fragment>
                 <div className=' md:relative'>
-                    <div className='bg-[url("https://thumbs.dreamstime.com/b/adult-female-age-20-25-snowboarder-6544182.jpg")] h-[720px] w-[1440px] bg-cover bg-center '>
+                    <div className='bg-[url("https://thumbs.dreamstime.com/b/adult-female-age-20-25-snowboarder-6544182.jpg")] h-[720px] bg-cover bg-center '>
                         <Fade big>
                             <h1 className='not-italic font-[600px] text-8xl leading-[108px] text-white font-bold text-left ml-[120px] pt-[152px]'>View Passes We’ve Made <br /> Available For You</h1>
                         </Fade>

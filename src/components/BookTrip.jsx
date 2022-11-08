@@ -4,7 +4,7 @@ import "./BookTrip.css"
 const BookTrip = () => {
   return (
     <div className='md:px-[120px] '>
-      <div className='tripp w-[1200px] h-[140px] bg-slate-100 rounded-[16px] mt-[300px] '>
+      <div className='tripp h-[140px] bg-slate-100 rounded-[16px] mt-[300px] '>
         <div>
           <ul className='flex justify-between px-[50px]'>
             <>
