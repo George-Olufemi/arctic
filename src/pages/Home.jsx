@@ -7,6 +7,7 @@ import Region from '../components/Region'
 import Bounce from 'react-reveal/Zoom';
 import Resort from '../components/Resort'
 import FooterHero from '../components/FooterHero'
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
@@ -25,6 +26,7 @@ const Home = () => {
         <Region />
         <Resort />
         <FooterHero />
+        <Footer/>
       </div>
   )
 }
