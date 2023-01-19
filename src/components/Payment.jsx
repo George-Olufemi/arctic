@@ -4,7 +4,7 @@ import Roll from 'react-reveal/Zoom';
 
 const Payment = () => {
     return (
-        <div className='bg-[#F8F9FC] w-[1440px] h-[830px]'>
+        <div className='bg-[#F8F9FC] h-[830px]'>
             <div className='md:px-[250px] mb-[178.69px]'>
                 <Roll>
                     <div className='flex pt-[75px] justify-between items-center'>
